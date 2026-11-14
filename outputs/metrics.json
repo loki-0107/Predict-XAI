@@ -1,0 +1,12 @@
+{
+    "failure_classification": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "rul_regression": {
+        "rmse": 2.0373821078342034,
+        "mae": 1.6217385401395075
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "failure_accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "rul_rmse": 0.76,
+    "rul_mae": 0.62
+}
